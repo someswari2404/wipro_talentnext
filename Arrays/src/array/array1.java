@@ -1,5 +1,4 @@
 package array;
-
-public class array1 {
-
+import java.util.*;
+public class array1{
 }
